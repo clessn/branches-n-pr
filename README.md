@@ -1,4 +1,8 @@
 # branches-n-pr
 Test repo to teach how to use branches and pull requests
 
-Catherine Ouellet
+## Liste des participants
+* Oliver Banville
+* Adrien Cloutier
+* Hubert Cadieux
+* Catherine Ouellet
