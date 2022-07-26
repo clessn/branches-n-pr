@@ -6,3 +6,5 @@ Test repo to teach how to use branches and pull requests
 * Adrien Cloutier
 * Hubert Cadieux
 * Jérémy Gilbert
+* Hubert Cadieux 2e fois
+* Lydia Laflamme
