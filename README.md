@@ -8,3 +8,6 @@ Test repo to teach how to use branches and pull requests
 * Jérémy Gilbert
 * Hubert Cadieux 2e fois
 * Lydia Laflamme
+* Alexandre Bouillon
+* Hubert Cadieux 2e fois
+* Lydia Laflamme
