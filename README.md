@@ -3,7 +3,7 @@ Test repo to teach how to use branches and pull requests
 
 ## Liste des participants
 * Oliver Banville
-* Adrien Cloutier
+* Adrien Cloutier master of universe
 * Hubert Cadieux
 * Catherine Ouellet
 * Judith Bourque
